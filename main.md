@@ -29,7 +29,6 @@
 
 <a href="https://github.com/Iighter">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iighter&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iighter&theme=buefy&layout=compact" />
 </a>
 
 <br/>
